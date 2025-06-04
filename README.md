@@ -53,7 +53,7 @@ https://docs.google.com/spreadsheets/d/1dsrqpbot0cuSk_tWO_xmUPFdXCKTuup_/edit?us
 
 ## Bug Report
 
-https://drive.google.com/drive/folders/1UqBFfGry2L---aGYYXeZokrQA63mfWB_?usp=drive_link
+https://docs.google.com/spreadsheets/d/1ve4Sz9SUPLZovuWmutpbhVwVMiIYbR2y/edit?usp=drive_link&ouid=101380230312201130628&rtpof=true&sd=true
 
 ## Newman Summary Report
 ![image](https://github.com/user-attachments/assets/20a0873b-a37f-4088-af59-375f2ce9b838)
